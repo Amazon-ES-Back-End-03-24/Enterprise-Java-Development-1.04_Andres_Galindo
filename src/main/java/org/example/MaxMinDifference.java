@@ -27,3 +27,7 @@ public class MaxMinDifference {
         System.out.println("La diferencia entre el valor máximo y mínimo es: " + difference);
     }
 }
+
+/*
+
+ */
