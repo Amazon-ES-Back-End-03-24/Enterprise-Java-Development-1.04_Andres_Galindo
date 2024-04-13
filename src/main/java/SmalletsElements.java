@@ -8,7 +8,7 @@ public class SmalletsElements {
 
         Arrays.sort(arr);
 
-        System.out.println("El elemento más pequeño es: " + arr[0]);
+        System.out.println("El elemento más peque es: " + arr[0]);
         System.out.println("El segundo elemento más pequeño es: " + arr[1]);
     }
 
